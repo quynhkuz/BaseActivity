@@ -1,0 +1,8 @@
+package com.remi.remiads.a_pro;
+
+public enum PURCHASE_TYPE {
+    PURCHASE_ONE_TIME,
+    PURCHASE_SUBSCRIPTION,
+    PURCHASE_SUBS_CACHE,
+    PURCHASE_UNSPECIFIED
+}

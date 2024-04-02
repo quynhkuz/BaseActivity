@@ -1,0 +1,25 @@
+<resources>
+    <string name="id_pay" translatable="false">com.remi.recorder.voicerecorder_payk</string>
+    <string name="id_sub_week" translatable="false">com.remi.widget_week</string>
+    <string name="id_sub_month" translatable="false">com.remi.widget_month</string>
+    <string name="id_sub_year" translatable="false">com.remi.widget_yearly</string>
+
+<!--    <string name="id_pay" translatable="false">android.test.canceled</string>-->
+
+    <string name="app_name">My Ads</string>
+    <string name="premium">Go Premium</string>
+    <string name="action_ads">This action may contain ads</string>
+    <string name="no_email">No Email</string>
+    <string name="ads_load">Ads loading…</string>
+    <string name="ad">Ad</string>
+    <string name="install">Install</string>
+    <string name="watch_video">Watch Video</string>
+    <string name="title_ads_video">Advanced features</string>
+    <string name="content_ads_video">To use this feature, please upgrade to the paid version or watch a rewarded ad.</string>
+    <string name="sub">Subscriptions</string>
+    <string name="sub_content">You just completed an app lifetime purchase. Please cancel your previous subscription in the subscription management section.</string>
+    <string name="manager_sub">Subscription Management</string>
+    <string name="title_dialog_sub">Remove Subscription</string>
+    <string name="content_dialog_sub">Please cancel your subscription when upgrading to the lifetime version.</string>
+    <string name="cancel">Cancel</string>
+</resources>

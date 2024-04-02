@@ -15,4 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "BaseActivity"
 include(":app")
+include(":MyAds")
  

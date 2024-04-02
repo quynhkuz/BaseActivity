@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Ads</string>
+    <string name="premium">Lên Pro</string>
+    <string name="action_ads">Hành động này có thể chứa quoảng cáo</string>
+    <string name="no_email">Không có Email</string>
+    <string name="ads_load">Đang tải quảng cáo…</string>
+    <string name="ad">Ad</string>
+    <string name="install">Cài đặt</string>
+    <string name="watch_video">Xem quảng cáo</string>
+    <string name="title_ads_video">Các Tính năng nâng cao</string>
+    <string name="content_ads_video">Để sử dụng tính năng này, vui lòng nâng cấp lên phiên bản trả phí hoặc xem quảng cáo có tặng thưởng.</string>
+    <string name="sub">Đăng ký thuê bao</string>
+    <string name="sub_content">Bạn vừa hoàn tất giao dịch mua ứng dụng trọn đời. Vui lòng hủy đăng ký trước đó của bạn trong phần quản lý đăng ký.</string>
+    <string name="manager_sub">Quản lý gói thuê bao</string>
+    <string name="title_dialog_sub">Hủy Thuê Bao</string>
+    <string name="content_dialog_sub">Vui lòng hủy đăng ký khi nâng cấp lên phiên bản trọn đời.</string>
+    <string name="cancel">Hủy bỏ</string>
+</resources>

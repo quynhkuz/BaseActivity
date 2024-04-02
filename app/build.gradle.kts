@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.example.baseactivity"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.baseactivity"
         minSdk = 24
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
@@ -42,6 +42,9 @@ android {
 }
 
 dependencies {
+
+
+    implementation(project(mapOf("path" to ":MyAds")))
 
     implementation("androidx.core:core-ktx:1.9.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
