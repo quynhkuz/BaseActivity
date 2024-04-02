@@ -25,6 +25,7 @@ abstract class BaseActivity <B: ViewBinding>(val bindingFactory: (LayoutInflater
     }
 
 
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding()
